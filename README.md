@@ -2,6 +2,9 @@
 
 **Overview:**
 
+Heart Disease is an impactful disease, causing over 17 million deaths annually worldwide (approximately 42%) and is one of the leading causes of death globally. Heart Disease refers to a condition where the coronary arteries (which supply blood to the heart muscle) become narrowed, blocked or obstructed. This obstruction has a buildup of fatty deposits, cholesterol, and other substances causing reduced blood flow to the heart. 
+
+Over time, without treatment or intervention, the lack of blood being pumped to the heart can lead to symptoms like chest pain, shortness of breath, or a heart attack that can ultimately lead to death.
 
 This project leverages machine learning models to analyze heart disease data and predict the likelihood of heart disease based on various health and demographic factors. This heart_disease dataset is preprocessed and utilized to train multiple models, including Logistic Regression, Support Vector Machines (SVMs), Neural Networks and Deep Learning (LSTM). 
 
@@ -60,8 +63,9 @@ To set up and run the project locally:
 
 **Usage:**
 
-Run the model training and evaluation
-Visualize the various models mentioned above for performance comparison
+• Run the model training and evaluation
+
+• Visualize the various models mentioned above for performance comparison
 
 
 
@@ -69,6 +73,7 @@ Visualize the various models mentioned above for performance comparison
 
 The models' performance shows the trade-off between sensitivity of a true positive rate and specificity of a false positive rate. According the metrics examined, the SVM model is the best-performing model.
 
+Despite the current study’s findings, there is ample room for future research.
 
 
 **Contributors:**
